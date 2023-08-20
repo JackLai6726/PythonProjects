@@ -13,4 +13,4 @@ Thought process in the code
  - Add a variable that saves the letters in a word as a set
  - Add an empty set that keeps track of what the user has guessed
  - Loop on user input, until they guess all letters
- - Or if lives run out first, display ("You dies, sorry. The word was', word)
+ - Or if lives run out first, display ("You died, sorry. The word was', word)
